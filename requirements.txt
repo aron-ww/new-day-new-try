@@ -1,2 +1,4 @@
 discord.py==2.3.2
 youtube_dl
+flask
+waitress
